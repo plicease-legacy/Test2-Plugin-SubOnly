@@ -2,6 +2,7 @@ package Test2::Plugin::SubOnly;
 
 use strict;
 use warnings;
+use 5.008001;
 use Test2::API qw( context );
 use Test2::Tools::Basic qw( skip_all );
 use Monkey::Patch qw( patch_package );
