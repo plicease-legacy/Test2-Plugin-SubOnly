@@ -4,7 +4,7 @@ Skip all but select subtests
 
 # SYNOPSIS
 
-    # test only the second subtest
+    # test only the second and third subtest
     % perl -MTest2::Plugin::SubOnly=2 t/foo.t
 
 # DESCRIPTION

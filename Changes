@@ -1,6 +1,7 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+  - Added prove plugin
 
 0.01      2016-05-19 11:19:53 -0400
   - initial version
