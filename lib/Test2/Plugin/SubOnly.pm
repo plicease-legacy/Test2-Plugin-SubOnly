@@ -14,7 +14,7 @@ use Test2::Tools::Subtest ();
 =head1 SYNOPSIS
 
  # test only the second and third subtest
- % perl -MTest2::Plugin::SubOnly=2 t/foo.t
+ % perl -MTest2::Plugin::SubOnly=2,3 t/foo.t
 
 =head1 DESCRIPTION
 
