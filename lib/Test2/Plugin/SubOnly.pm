@@ -38,6 +38,8 @@ internals.
 
 =item L<Test2::Tools::Subtest>
 
+=item L<App::Prove::Plugin::SubOnly>
+
 =back
 
 =cut

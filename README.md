@@ -24,6 +24,7 @@ internals.
 - [Test2](https://metacpan.org/pod/Test2)
 - [Test2::API](https://metacpan.org/pod/Test2::API)
 - [Test2::Tools::Subtest](https://metacpan.org/pod/Test2::Tools::Subtest)
+- [App::Prove::Plugin::SubOnly](https://metacpan.org/pod/App::Prove::Plugin::SubOnly)
 
 # AUTHOR
 
